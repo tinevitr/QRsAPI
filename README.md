@@ -14,7 +14,7 @@ Explore the API live at [qrsapi.vercel.app][qrsapi-url]
 
 ---
 
-### Build with
+## 🛠 Build with
 
 [![JavaScript][js]][js-docs]
 [![Node.js][node]][node-docs]
