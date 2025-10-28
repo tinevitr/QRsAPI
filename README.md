@@ -11,6 +11,7 @@ Explore the API live at [qrsapi.vercel.app][qrsapi-url]
 🔗 Base URL
 
 `https://qrsapi.vercel.app`
+`https://qrsapi.vercel.app/api/qr/generate`
 
 ---
 
@@ -20,6 +21,8 @@ Explore the API live at [qrsapi.vercel.app][qrsapi-url]
 [![Node.js][node]][node-docs]
 [![Tailwind CSS][tailwind]][tailwind-docs]
 [![Vercel][vercel]][vercel-docs]
+
+[![QRsAPI Screenshot][qrsapi-ss]][qrsapi-url]
 
 ---
 
@@ -113,6 +116,7 @@ Made by [Nine12](https://fqnlst.vercel.app) for QRsAPI
 [vercel]: https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge
 [readme]: https://img.shields.io/badge/README-md-blue?style=for-the-badge&logo=markdown&logoColor=white
 [qrsapi-img]: https://qrsapi.vercel.app/api/qr/generate?text=Hello%20World&size=200&margin=1&format=png
+[qrsapi-ss]: https://raw.githubusercontent.com/ShinWolf-Subject/QRsAPI/refs/heads/main/public/assets/qrsapi-ss.png
 
 [repo]: ./README.md
 [js-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
