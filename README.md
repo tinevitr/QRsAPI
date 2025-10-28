@@ -11,7 +11,6 @@ Explore the API live at [qrsapi.vercel.app][qrsapi-url]
 🔗 Base URL
 
 `https://qrsapi.vercel.app`
-`https://qrsapi.vercel.app/api/qr/generate`
 
 ---
 
