@@ -121,7 +121,7 @@ Made by [Nine12](https://fqnlst.vercel.app) for QRsAPI
 [js-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [node-docs]: https://nodejs.org
 [tailwind-docs]: https://tailwindcss.com
-[vercel-docs]: https://vercel.com/docs
+[vercel-docs]: https://vercel.com
 [mit-license]: https://opensource.org/licenses/MIT
 [qrsapi-url]: https://qrsapi.vercel.app
 
