@@ -35,7 +35,7 @@ Example:
 GET https://qrsapi.vercel.app/api/qr/generate?text=Hello%20World&size=200&margin=1&format=png
 ```
 ```html
-<img src="https://qrsapi.vercel.app/api/qr/generate?text=Hello%20World&size=200&margin=1&format=png" alt="QR Code" />
+<img src="https://qrsapi.vercel.app/api/qr/generate?text=Hello%20World&size=200&margin=1&format=png" alt="QR Code" title="QR Code" />
 ```
 Preview:
 
