@@ -115,8 +115,7 @@ Made by [Nine12](https://fqnlst.vercel.app) for QRsAPI
 [vercel]: https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge
 [readme]: https://img.shields.io/badge/README-md-blue?style=for-the-badge&logo=markdown&logoColor=white
 [qrsapi-img]: https://qrsapi.vercel.app/api/qr/generate?text=Hello%20World&size=200&margin=1&format=png
-[qrsapi-ss]: https://raw.githubusercontent.com/ShinWolf-Subject/QRsAPI/refs/heads/main/public/assets/qrsapi-ss.png?token=GHSAT0AAAAAADNZYTYFK3IQEZZIXPVSCML42IBWP5Q
-
+[qrsapi-ss]: https://www.dropbox.com/scl/fi/q90zjwnahb85mz1gtu6dl/qrsapi-ss.png?rlkey=vpaw0vt6jsdemjzcfrbtqhwox&st=d5p6ou9u&raw=1
 [repo]: ./README.md
 [js-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [node-docs]: https://nodejs.org
