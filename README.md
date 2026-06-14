@@ -1,20 +1,20 @@
-# 📦 QR Code Generator API
+# QR Code Generator API
 
 Generate high-performance QR codes via a simple RESTful API. Deployed serverlessly on Vercel for blazing-fast response times.
 
-## 🚀 Live Demo
+## Live Demo
 
 Explore the API live at [qrsapi.vercel.app][qrsapi-url]
 
-📘 API Documentation
+API Documentation
 
-🔗 Base URL
+Base URL
 
 `https://qrsapi.vercel.app`
 
 ---
 
-## 🛠 Build with
+## Build with
 
 [![JavaScript][js]][js-docs]
 [![Node.js][node]][node-docs]
@@ -25,7 +25,7 @@ Explore the API live at [qrsapi.vercel.app][qrsapi-url]
 
 ---
 
-### 📥 GET /api/qr/generate
+### GET /api/qr/generate
 
 Generate a QR code via query parameters.
 
@@ -51,7 +51,7 @@ Preview:
 | margin    | number | size in pixel (default: 1)|
 ---
 
-### 📤 POST /api/qr/generate
+### POST /api/qr/generate
 
 Generate a QR code with custom options via JSON payload.
 
@@ -76,37 +76,35 @@ Body Example:
 
 ---
 
-### 📊 GET /api/qr/info
+### GET /api/qr/info
 
 Returns API usage information and metadata.
 
 ---
 
-### ❤️ GET /health
+### GET /health
 
 Health check endpoint to verify server status.
 
 ---
 
-### 🛠 Tech Stack
-
--   Serverless Functions (Vercel)
+### Tech Stack
 -   Node.js
--   QR Code generation library
+-   Tailwind CSS
 
-📄 License
+### License
 
 [![License][mit]][mit-license]
 
 ---
 
-👀 Readme
+### Readme
 
 [![README][readme]][repo]
 
 ---
 
-Made by [Nine12](https://fqnlst.vercel.app) for QRsAPI
+Made by [Banis.dev](https://banis.dev) for you
 
 [mit]: https://img.shields.io/badge/License-MIT-2ea44f?logo=github&logoColor=white&style=for-the-badge
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge
